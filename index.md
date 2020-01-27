@@ -1,7 +1,15 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Intersections
 
-![Image of fast.ai logo](images/logo.png)
+Hello and welcome to this blog. Here you will find information about me and the intersections of different interests and area in my life.
 
-## This is a title
+I will post more about my:
+- Family
+- Current Work
+- Previous work
+- Doctoral Studies
+- Master Studies
+- Software I use and my setup
+- Catholic information
+- Other types of information
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+You cancontaact me by visiting my about page here: https://about.me/rburkesquires/
